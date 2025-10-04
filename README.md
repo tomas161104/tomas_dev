@@ -15,6 +15,7 @@ Cuento con un dominio profundo de las siguientes tecnologías:
 * **Backend:**
     * `Python` (manejo de frameworks como **django
     * `RESTful APIs`
+    * `Doker`
 * **Bases de Datos:**
     * `MySQL` 
     * `SQLite3`
