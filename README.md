@@ -1,54 +1,74 @@
-# tomas_dev
-Sobre Mi
-# ¡Hola! Soy Tomas Trigal 👋
+# Tomi – Backend Developer | Django & REST APIs
 
-Soy un apasionado **desarrollador backend** con base en Bahía Blanca, Argentina. Me encanta construir soluciones digitales robustas y eficientes, transformando ideas en aplicaciones funcionales y escalables.
-
-Con una sólida experiencia en desarrollo backend, me especializo en crear sistemas que funcionan de manera impecable y segura.
+Hi! I'm **Tomi**, a backend developer specializing in **Django**, **Django REST Framework (DRF)**, and building **scalable, dockerized APIs**.  
+I focus on creating clean, maintainable code, secure applications, and reliable backend architectures.
 
 ---
 
-### 🚀 Mis Habilidades
+## 🔹 About Me
 
-Cuento con un dominio profundo de las siguientes tecnologías:
-
-* **Backend:**
-    * `Python` (manejo de frameworks como **django
-    * `RESTful APIs`
-    * `Doker`
-* **Bases de Datos:**
-    * `MySQL` 
-    * `SQLite3`
-    * `PostgreSQL`
-
-* **Control de Versiones:**
-    * `Git` / `GitHub`
+- Fullstack enthusiast with a strong focus on **backend development**.
+- Experienced in **Python, Django, PostgreSQL**, and RESTful API design.
+- Comfortable working with **Docker**, **API documentation (Swagger / drf-yasg)**, and deployment-ready configurations.
+- Passionate about creating projects that solve real problems and can be used in production.
+- Open to **freelance, remote, and international opportunities**.
 
 ---
 
-### ✨ Lo que hago
+## 🔹 Skills
 
-Me dedico a desarrollar:
+**Backend & Frameworks:**
+- Python, Django, Django REST Framework
+- User authentication & permissions
+- CRUD APIs, serializers, and viewsets
 
-* **APIs Robustas:** Para integrar servicios y habilitar la comunicación entre diferentes plataformas.
-* **Optimización de Sistemas:** Mejorando el rendimiento y la escalabilidad de aplicaciones existentes.
+**Databases:**
+- PostgreSQL, relational modeling
+- Migrations & data management
+
+**DevOps & Tools:**
+- Docker & Docker Compose
+- Git & GitHub
+- Environment management with `.env`
+- Gunicorn for production servers
+
+**Other:**
+- REST API documentation using **drf-yasg / Swagger**
+- Handling payments, carts, orders, reviews in e-commerce projects
+- Familiarity with CI/CD workflows
 
 ---
 
-### 📊 Mis Proyectos Destacados
+## 🔹 Projects (Portfolio Highlights)
 
-Aquí puedes encontrar algunos de mis trabajos más recientes y representativos. ¡Te invito a explorarlos!
+- **E-commerce API (Django + DRF + Docker)**  
+  - Full backend for e-commerce: users, products, categories, cart, orders, payments, reviews.  
+  - Dockerized environment for easy setup and demo.  
+  - API documentation via Swagger UI.
 
+- **Blog platform backend**  
+  - Users can create blogs, posts, likes, and comments.  
+  - Secure authentication and permissions.
+
+- Additional personal projects showcasing **REST API design**, **data modeling**, and **Docker-based deployment**.
 
 ---
 
-### 🌐 Conéctate Conmigo
+## 🔹 How I Work
 
-Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
+- Write clean, reusable, and maintainable code.
+- Focus on **security and scalability**.
+- Use Docker to standardize development and deployment environments.
+- Document APIs for easy client-side integration.
 
-* **LinkedIn:** www.linkedin.com/in/tomas-trigal-4437b3375
-* **Email:** tomastrigal680@gmail.com
-* **Mi Sitio Web/Portafolio:** https://tomydev.netlify.app/
 ---
 
-> "Transformando ideas en código, impulsando el éxito digital."
+## 🔹 Contact & Freelance
+
+- **GitHub:** [github.com/yourusername](https://github.com/tomas161104)  
+- Open to freelance projects, remote backend work, and collaborations.
+
+---
+
+> “I build reliable and scalable backends that let the frontend shine.”
+
